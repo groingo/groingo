@@ -1,7 +1,4 @@
 # welcome to funny profile 👋
-
---
-
 ## social media
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCExA6qf8Mljuzvteh3FYr0A">
@@ -15,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=boxmaninnit&style=flat-square&color=blue" alt=""/>
  </div>
 
---
+
 
 ## About me
 ### - 🌱 I’m currently learning JavaScript
@@ -23,7 +20,7 @@
 ### - 📫 How to reach me: discord: <a href="https://discord.com/users/688370990404730935"> <img src="https://img.shields.io/badge/discord-grey?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/> </a>
 ### - 😄 Pronouns: male
 ### - ⚡ Fun fact: i dont know how to learn javascript
---
+
 ## My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=boxmaninnit&theme=dark&background=000000)](https://git.io/streak-stats)
