@@ -1,23 +1,19 @@
-# welcome to funny profile 👋
+# this is my github profile
 ## social media
 <div id="badges">
   <a href="https://www.youtube.com/channel/UCExA6qf8Mljuzvteh3FYr0A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/agentbl0x">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div>
-  <img src="https://komarev.com/ghpvc/?username=boxmaninnit&style=flat-square&color=blue" alt=""/>
  </div>
 
 
 
 ## About me
-### - 🌱 I’m currently learning JavaScript
-### - 🤔 I’m looking for help with learning JavaScript
-### - 📫 How to reach me: discord: <a href="https://discord.com/users/688370990404730935"> <img src="https://img.shields.io/badge/discord-grey?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/> </a>
+### - 🌱 I’m currently wondering what language to learn
+### - 🤔 I’m looking for help with finding a language i want to learn
+### - 📫 How to reach me: <a href="https://discord.com/users/688370990404730935"> <img src="https://img.shields.io/badge/discord-grey?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/> </a>
 ### - 😄 Pronouns: male
 ### - ⚡ Fun fact: i dont know how to learn javascript
 
