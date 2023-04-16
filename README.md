@@ -14,7 +14,6 @@
 ### - 🌱 I’m currently wondering what language to learn
 ### - 🤔 I’m looking for help with finding a language i want to learn
 ### - 📫 How to reach me: <a href="https://discord.com/users/688370990404730935"> <img src="https://img.shields.io/badge/discord-grey?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/> </a>
-### - 😄 Pronouns: male
 ### - ⚡ Fun fact: i dont know how to learn javascript
 
 ## My stats:
