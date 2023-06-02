@@ -1,20 +1,10 @@
 # this is my github profile
-## social media
-<div id="badges">
-  <a href="https://www.youtube.com/channel/UCExA6qf8Mljuzvteh3FYr0A">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  </a>
-</div>
- </div>
-
-
 
 ## About me
-### - 🌱 I’m currently wondering what language to learn
-### - 🤔 I’m looking for help with finding a language i want to learn
-### - 📫 How to reach me: <a href="https://discord.com/users/688370990404730935"> <img src="https://img.shields.io/badge/discord-grey?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/> </a>
-### - ⚡ Fun fact: i dont know how to learn javascript
+### - 🌱 I’m currently wondering WHY ARE PRORAMMING LANGUAGES SO ANNOYING TO LEARN
+### - 🤔 I’m looking for help with HOW DO I LEARN PYTHON
+### - 📫 How to reach me: you DONT
+### - ⚡ Fun fact: AGDFAJAGAAAAAAAAAAAAAAGH
 
 ## My stats:
 
@@ -25,9 +15,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with learning JavaScript
-- 📫 How to reach me: discord: compunter ihate#9430
+- 🌱 I’m currently learning 
+- 🤔 I’m looking for help with 
+- 📫 How to reach me:
 - 😄 Pronouns: male
-- ⚡ Fun fact: i dont know how to learn javascript
+- ⚡ Fun fact:
 -->
