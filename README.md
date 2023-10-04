@@ -18,6 +18,6 @@ to thy heart, and farewell.’
 
 ## My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=groingo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=groingo&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
